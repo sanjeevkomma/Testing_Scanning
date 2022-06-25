@@ -3,5 +3,6 @@
 # Annotations
 |SNo| #Annotation  | #Intent |
 | :---:| :---: | :---: | 
-| 1 |@FunctionalInterface | |
+| 1 |@InjectMocks | |
+| 2 |@Mock | |
 

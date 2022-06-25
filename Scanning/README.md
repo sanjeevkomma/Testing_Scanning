@@ -4,24 +4,32 @@
 # To Read
 
 # Vulnerability Category
-* Insecure Direct Object References (IDOR) 
-* Insecure Direct Object Reference            
-* Insufficient Anti-Automation
-* Logical Error
-* Reflected Cross-Site Scripting
-* Path Traversal
-* SQL Injection
-* XML External Entities (XXE)        
-* Cross-Site Request Forgery (CSRF)
-* Cross-Site Scripting (XSS)
-* Missing Function Level Access Control
-* Information Exposure --- Sensitive Data Exposure
-* Sensitive Data Storage --- Plain Text Storage of Passwords
-* Injection Flaws --- Remote File Inclusion
-* Information Exposure --- Error Details
-* Authentication --- Weak Password Policy
-* Business Logic --- Insufficient Validation
-* Access Control --- Missing Object Level Access Control
+|SNo| #Vulnerability  | ##Intent |
+| :---: | :---: | :---: |
+| 1 |Insecure Direct Object References (IDOR) | |
+| 2 |Insecure Direct Object Reference | |           
+| 3 |nsufficient Anti-Automation| |
+| 4 |Logical Error| |
+| 5 |Reflected Cross-Site Scripting| |
+| 6 |Path Traversal| |
+| 7 |SQL Injection| |
+| 8 |XML External Entities (XXE)| |        
+| 9 |Cross-Site Request Forgery (CSRF)| |
+| 10 |Cross-Site Scripting (XSS)| |
+| 11 |Missing Function Level Access Control| |
+| 12 |Information Exposure | Sensitive Data Exposure|
+| 13 |Sensitive Data Storage |Plain Text Storage of Passwords|
+| 14 |Injection Flaws |Remote File Inclusion| 
+| 15 |Information Exposure |Error Details| 
+| 16 |Authentication |Weak Password Policy|
+| 17 |Business Logic |Insufficient Validation| 
+| 18 |Access Control |Missing Object Level Access Control| 
+
+# Code Smells
+|SNo| #Code Smell  | ##Intent |
+| :---: | :---: | :---: |
+| 1 |Insecure Direct Object References (IDOR) | |
+| 2 |Insecure Direct Object Reference | |        
 
 # Terminology
 * CVSS = Common Vulnerability Scoring Syste
